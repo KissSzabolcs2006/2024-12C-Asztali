@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tszt", "Tszt\Tszt.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tobbelem", "Tobbelem\Tobbelem.csproj", "{519C0DC0-8326-46F4-B722-F57C92BBD52E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tobbelem2", "tobbelem2\tobbelem2.csproj", "{0E814392-EF39-476A-86D0-0C991E0A1B0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first", "first\first.csproj", "{ECDF4350-E958-4C51-A3B1-AC6BCEE2B705}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{519C0DC0-8326-46F4-B722-F57C92BBD52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{519C0DC0-8326-46F4-B722-F57C92BBD52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{519C0DC0-8326-46F4-B722-F57C92BBD52E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E814392-EF39-476A-86D0-0C991E0A1B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E814392-EF39-476A-86D0-0C991E0A1B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E814392-EF39-476A-86D0-0C991E0A1B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E814392-EF39-476A-86D0-0C991E0A1B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDF4350-E958-4C51-A3B1-AC6BCEE2B705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDF4350-E958-4C51-A3B1-AC6BCEE2B705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDF4350-E958-4C51-A3B1-AC6BCEE2B705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDF4350-E958-4C51-A3B1-AC6BCEE2B705}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

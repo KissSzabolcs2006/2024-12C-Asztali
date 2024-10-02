@@ -1,0 +1,7 @@
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Tszt\bin\Debug\Tszt.exe.config
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Tszt\bin\Debug\Tszt.exe
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Tszt\bin\Debug\Tszt.pdb
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Tszt\obj\Debug\Tszt.csproj.AssemblyReference.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Tszt\obj\Debug\Tszt.csproj.CoreCompileInputs.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Tszt\obj\Debug\Tszt.exe
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Tszt\obj\Debug\Tszt.pdb
