@@ -1,0 +1,7 @@
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\PREFIX\bin\Debug\PREFIX.exe.config
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\PREFIX\bin\Debug\PREFIX.exe
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\PREFIX\bin\Debug\PREFIX.pdb
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\PREFIX\obj\Debug\PREFIX.csproj.AssemblyReference.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\PREFIX\obj\Debug\PREFIX.csproj.CoreCompileInputs.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\PREFIX\obj\Debug\PREFIX.exe
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\PREFIX\obj\Debug\PREFIX.pdb
