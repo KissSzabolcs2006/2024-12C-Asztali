@@ -1,0 +1,7 @@
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Logikai\bin\Debug\Logikai.exe.config
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Logikai\bin\Debug\Logikai.exe
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Logikai\bin\Debug\Logikai.pdb
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Logikai\obj\Debug\Logikai.csproj.AssemblyReference.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Logikai\obj\Debug\Logikai.csproj.CoreCompileInputs.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Logikai\obj\Debug\Logikai.exe
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Logikai\obj\Debug\Logikai.pdb

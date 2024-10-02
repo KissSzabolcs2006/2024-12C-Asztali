@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tobbelem2", "tobbelem2\tobb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first", "first\first.csproj", "{ECDF4350-E958-4C51-A3B1-AC6BCEE2B705}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logikai", "Logikai\Logikai.csproj", "{D6E8362C-0ED4-4AD1-AF6B-16B8F45E6038}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{ECDF4350-E958-4C51-A3B1-AC6BCEE2B705}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECDF4350-E958-4C51-A3B1-AC6BCEE2B705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECDF4350-E958-4C51-A3B1-AC6BCEE2B705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E8362C-0ED4-4AD1-AF6B-16B8F45E6038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E8362C-0ED4-4AD1-AF6B-16B8F45E6038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E8362C-0ED4-4AD1-AF6B-16B8F45E6038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E8362C-0ED4-4AD1-AF6B-16B8F45E6038}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
