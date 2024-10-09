@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PREFIX", "PREFIX\PREFIX.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ha", "Ha\Ha.csproj", "{589F4E88-9C6C-402F-9002-543B42542576}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorHasab", "KorHasab\KorHasab.csproj", "{7D9CF1E1-0D05-4458-A6E9-CEBD1AB33D9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{589F4E88-9C6C-402F-9002-543B42542576}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{589F4E88-9C6C-402F-9002-543B42542576}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{589F4E88-9C6C-402F-9002-543B42542576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9CF1E1-0D05-4458-A6E9-CEBD1AB33D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9CF1E1-0D05-4458-A6E9-CEBD1AB33D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9CF1E1-0D05-4458-A6E9-CEBD1AB33D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9CF1E1-0D05-4458-A6E9-CEBD1AB33D9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Users\2021132\source\repos\KorHasab\KorHasab\bin\Debug\KorHasab.exe.config
+C:\Users\2021132\source\repos\KorHasab\KorHasab\bin\Debug\KorHasab.exe
+C:\Users\2021132\source\repos\KorHasab\KorHasab\bin\Debug\KorHasab.pdb
+C:\Users\2021132\source\repos\KorHasab\KorHasab\obj\Debug\KorHasab.csproj.AssemblyReference.cache
+C:\Users\2021132\source\repos\KorHasab\KorHasab\obj\Debug\KorHasab.csproj.CoreCompileInputs.cache
+C:\Users\2021132\source\repos\KorHasab\KorHasab\obj\Debug\KorHasab.exe
+C:\Users\2021132\source\repos\KorHasab\KorHasab\obj\Debug\KorHasab.pdb
