@@ -11,7 +11,7 @@ namespace KorHasab
         //Az osztáy feladata: A sugárból kiszámítja a kör területét, kerületét.
 
         //Osztályváltozók
-        private double sugar, kerulet, terulet;
+        protected double sugar, kerulet, terulet;
 
         //Konstruktorok
         public Kor()

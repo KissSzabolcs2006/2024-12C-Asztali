@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KorHasab
+namespace teglalap
 {
     class Tegla
     {
-        private double a, b, kerulet, terulet;
+        protected double a, b, kerulet, terulet;
 
         public Tegla()
         {
