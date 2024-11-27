@@ -1,0 +1,2 @@
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\HaromszogTipusaOOP2\obj\Debug\HaromszogTipusaOOP2.csproj.AssemblyReference.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\HaromszogTipusaOOP2\obj\Debug\HaromszogTipusaOOP2.csproj.CoreCompileInputs.cache

@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorHasab", "KorHasab\KorHas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teglalap", "teglalap\teglalap.csproj", "{03FDFB15-B8E5-42F1-85C9-F2D0CDF02F64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaromszogTipusaOOP2", "HaromszogTipusaOOP2\HaromszogTipusaOOP2.csproj", "{B99D80FA-E34C-48F1-9413-94DB6D6B04A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{03FDFB15-B8E5-42F1-85C9-F2D0CDF02F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03FDFB15-B8E5-42F1-85C9-F2D0CDF02F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03FDFB15-B8E5-42F1-85C9-F2D0CDF02F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B99D80FA-E34C-48F1-9413-94DB6D6B04A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99D80FA-E34C-48F1-9413-94DB6D6B04A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99D80FA-E34C-48F1-9413-94DB6D6B04A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99D80FA-E34C-48F1-9413-94DB6D6B04A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
