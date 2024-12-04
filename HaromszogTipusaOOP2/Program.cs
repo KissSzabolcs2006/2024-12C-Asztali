@@ -27,7 +27,7 @@ namespace HaromszogTipusaOOP
             Array.Sort(sides);
             return Math.Pow(sides[0], 2) + Math.Pow(sides[1], 2) == Math.Pow(sides[2], 2);
         }
-
+        
         // Ellenőrzi, hogy egyenlő szárú háromszög-e
         public bool EgyenloSzarue()
         {
