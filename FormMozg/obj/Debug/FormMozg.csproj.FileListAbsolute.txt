@@ -1,0 +1,10 @@
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\FormMozg\obj\Debug\FormMozg.csproj.AssemblyReference.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\FormMozg\obj\Debug\FormMozg.Form1.resources
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\FormMozg\obj\Debug\FormMozg.Properties.Resources.resources
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\FormMozg\obj\Debug\FormMozg.csproj.GenerateResource.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\FormMozg\obj\Debug\FormMozg.csproj.CoreCompileInputs.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\FormMozg\bin\Debug\FormMozg.exe.config
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\FormMozg\bin\Debug\FormMozg.exe
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\FormMozg\bin\Debug\FormMozg.pdb
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\FormMozg\obj\Debug\FormMozg.exe
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\FormMozg\obj\Debug\FormMozg.pdb

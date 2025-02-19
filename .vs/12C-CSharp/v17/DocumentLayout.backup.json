@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\2021132\\source\\repos\\KissSzabolcs2006\\2024-12C-Asztali\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8005DF80-3EE0-42C9-8FC7-904A62FB246C}|Cursor\\Cursor.csproj|c:\\users\\2021132\\source\\repos\\kissszabolcs2006\\2024-12c-asztali\\cursor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8005DF80-3EE0-42C9-8FC7-904A62FB246C}|Cursor\\Cursor.csproj|solutionrelative:cursor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{91FBACAE-9DA5-4A98-B685-6C94FF0CD0C5}|FormMozg\\FormMozg.csproj|c:\\users\\2021132\\source\\repos\\kissszabolcs2006\\2024-12c-asztali\\formmozg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FBACAE-9DA5-4A98-B685-6C94FF0CD0C5}|FormMozg\\FormMozg.csproj|solutionrelative:formmozg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8005DF80-3EE0-42C9-8FC7-904A62FB246C}|Cursor\\Cursor.csproj|c:\\users\\2021132\\source\\repos\\kissszabolcs2006\\2024-12c-asztali\\cursor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8005DF80-3EE0-42C9-8FC7-904A62FB246C}|Cursor\\Cursor.csproj|solutionrelative:cursor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91FBACAE-9DA5-4A98-B685-6C94FF0CD0C5}|FormMozg\\FormMozg.csproj|c:\\users\\2021132\\source\\repos\\kissszabolcs2006\\2024-12c-asztali\\formmozg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91FBACAE-9DA5-4A98-B685-6C94FF0CD0C5}|FormMozg\\FormMozg.csproj|solutionrelative:formmozg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FBACAE-9DA5-4A98-B685-6C94FF0CD0C5}|FormMozg\\FormMozg.csproj|c:\\users\\2021132\\source\\repos\\kissszabolcs2006\\2024-12c-asztali\\formmozg\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FBACAE-9DA5-4A98-B685-6C94FF0CD0C5}|FormMozg\\FormMozg.csproj|solutionrelative:formmozg\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,27 +26,40 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\2021132\\source\\repos\\KissSzabolcs2006\\2024-12C-Asztali\\Cursor\\Form1.cs",
-              "RelativeDocumentMoniker": "Cursor\\Form1.cs",
-              "ToolTip": "C:\\Users\\2021132\\source\\repos\\KissSzabolcs2006\\2024-12C-Asztali\\Cursor\\Form1.cs",
-              "RelativeToolTip": "Cursor\\Form1.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBoAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\2021132\\Source\\Repos\\KissSzabolcs2006\\2024-12C-Asztali\\FormMozg\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FormMozg\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\2021132\\Source\\Repos\\KissSzabolcs2006\\2024-12C-Asztali\\FormMozg\\Form1.Designer.cs",
+              "RelativeToolTip": "FormMozg\\Form1.Designer.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAWwKsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T07:41:35.539Z",
+              "WhenOpened": "2025-02-19T08:38:26.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\2021132\\source\\repos\\KissSzabolcs2006\\2024-12C-Asztali\\Cursor\\Form1.cs",
-              "RelativeDocumentMoniker": "Cursor\\Form1.cs",
-              "ToolTip": "C:\\Users\\2021132\\source\\repos\\KissSzabolcs2006\\2024-12C-Asztali\\Cursor\\Form1.cs [Design]",
-              "RelativeToolTip": "Cursor\\Form1.cs [Design]",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\2021132\\source\\repos\\KissSzabolcs2006\\2024-12C-Asztali\\FormMozg\\Form1.cs",
+              "RelativeDocumentMoniker": "FormMozg\\Form1.cs",
+              "ToolTip": "C:\\Users\\2021132\\source\\repos\\KissSzabolcs2006\\2024-12C-Asztali\\FormMozg\\Form1.cs",
+              "RelativeToolTip": "FormMozg\\Form1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T07:36:55.027Z",
+              "WhenOpened": "2025-02-19T07:55:51.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2021132\\source\\repos\\KissSzabolcs2006\\2024-12C-Asztali\\FormMozg\\Form1.cs",
+              "RelativeDocumentMoniker": "FormMozg\\Form1.cs",
+              "ToolTip": "C:\\Users\\2021132\\source\\repos\\KissSzabolcs2006\\2024-12C-Asztali\\FormMozg\\Form1.cs [Design]",
+              "RelativeToolTip": "FormMozg\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:51:36.123Z",
               "EditorCaption": " [Design]"
             }
           ]
