@@ -1,0 +1,10 @@
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Cursor\bin\Debug\Cursor.exe.config
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Cursor\bin\Debug\Cursor.exe
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Cursor\bin\Debug\Cursor.pdb
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Cursor\obj\Debug\Cursor.csproj.AssemblyReference.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Cursor\obj\Debug\Cursor.Form1.resources
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Cursor\obj\Debug\Cursor.Properties.Resources.resources
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Cursor\obj\Debug\Cursor.csproj.GenerateResource.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Cursor\obj\Debug\Cursor.csproj.CoreCompileInputs.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Cursor\obj\Debug\Cursor.exe
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Cursor\obj\Debug\Cursor.pdb

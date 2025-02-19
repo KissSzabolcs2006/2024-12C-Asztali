@@ -1,0 +1,10 @@
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Text align\obj\Debug\Text align.csproj.AssemblyReference.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Text align\obj\Debug\Text_align.Form1.resources
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Text align\obj\Debug\Text_align.Properties.Resources.resources
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Text align\obj\Debug\Text align.csproj.GenerateResource.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Text align\obj\Debug\Text align.csproj.CoreCompileInputs.cache
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Text align\bin\Debug\Text align.exe.config
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Text align\bin\Debug\Text align.exe
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Text align\bin\Debug\Text align.pdb
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Text align\obj\Debug\Text align.exe
+C:\Users\2021132\Source\Repos\KissSzabolcs2006\2024-12C-Asztali\Text align\obj\Debug\Text align.pdb
