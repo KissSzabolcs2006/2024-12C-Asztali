@@ -19,9 +19,57 @@ namespace FormMozg
             minWidth = 0,
             minHeight = 0;
 
+        private double opValtoz = 0.2;
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            StartPosition = FormStartPosition.CenterParent;
+            CenterToScreen();
+        }
+
+        private void btnLe_Click(object sender, EventArgs e)
+        {
+            Location = new Point(Location.X, (Location.Y + Height + valtmagas) >= Screen.GetWorkingArea(this).Height ? Location.Y : Location.Y + valtmagas);
+        }
+
+        private void btnAlul_Click(object sender, EventArgs e)
+        {
+            Location = new Point(Location.X, Screen.GetWorkingArea(this).Height-Height);
+        }
+
+        private void btnBalszel_Click(object sender, EventArgs e)
+        {
+            Location = new Point(0, Location.Y);
+        }
+
+        private void btnBalra_Click(object sender, EventArgs e)
+        {
+            Location = new Point(Location.X - valtszeles < 0 ? 0 : Location.X - valtszeles, Location.Y);
+        }
+
+        private void btnJobb_Click(object sender, EventArgs e)
+        {
+            Location = new Point(Location.X + Width + valtszeles >= Screen.PrimaryScreen.Bounds.Width ? Screen.PrimaryScreen.Bounds.Width - Width : Location.X + valtszeles, Location.Y);
+        }
+
+        private void btnJobbszel_Click(object sender, EventArgs e)
+        {
+            Location = new Point(Screen.PrimaryScreen.Bounds.Width -Width, Location.Y);
+        }
+
+        private void btnOpNo_Click(object sender, EventArgs e)
+        {
+            Opacity += opValtoz;
+        }
+
+        private void btnOpCsok_Click(object sender, EventArgs e)
+        {
+            Opacity -= opValtoz;
+        }
+
         private void btnFel_Click(object sender, EventArgs e)
         {
-
+            Location = new Point(Location.X, Location.Y - (Location.Y - valtmagas) <= 0 ? 0 : Location.Y - valtmagas);
         }
 
         private void btnFelul_Click(object sender, EventArgs e)
